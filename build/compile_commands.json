@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/mgh/code/build/src",
+  "command": "/usr/bin/c++  -I/home/mgh/code/src/../include  -o CMakeFiles/main.dir/main.cpp.o -c /home/mgh/code/src/main.cpp",
+  "file": "/home/mgh/code/src/main.cpp"
+},
+{
+  "directory": "/home/mgh/code/build/src",
+  "command": "/usr/bin/c++  -I/home/mgh/code/src/../include  -o CMakeFiles/main.dir/add.cpp.o -c /home/mgh/code/src/add.cpp",
+  "file": "/home/mgh/code/src/add.cpp"
+}
+]
